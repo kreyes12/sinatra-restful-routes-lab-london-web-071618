@@ -8,4 +8,5 @@ class ApplicationController < Sinatra::Base
     erb :index
   end
   
+  get '/new' do
 end
