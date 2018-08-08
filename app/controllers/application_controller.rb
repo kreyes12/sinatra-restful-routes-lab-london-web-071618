@@ -9,5 +9,5 @@ class ApplicationController < Sinatra::Base
   end
   
   get '/new' do
-    
+    erb :new
 end
