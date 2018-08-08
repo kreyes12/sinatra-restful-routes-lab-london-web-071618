@@ -9,4 +9,5 @@ class ApplicationController < Sinatra::Base
   end
   
   get '/new' do
+    
 end
